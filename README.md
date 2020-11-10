@@ -1,3 +1,3 @@
 # FullStackOpen-Part3
 
-https://fullstackopen-tony-part3.herokuapp.com/
+https://fullstackopen-part3-tony.herokuapp.com/
